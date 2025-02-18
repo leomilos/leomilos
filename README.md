@@ -16,6 +16,9 @@
 ---
 
 ## 📌 About Me
+- 🔹 **National Finalist in the Programming Marathon** 🏆  
+  Competed in the Brazilian Programming Marathon and reached the **National Level**, applying advanced algorithmic strategies.  
+- 🔹 Strong understanding of **Big O Notation** and **Code Optimization**, focusing on **efficient algorithms** and **performance improvements**.  
 - 🔹 Experienced in **financial data processing, automation, and APIs**.  
 - 🔹 Skilled in **Web Scraping, Apache Airflow, and Trading Bots**.  
 - 🔹 Developing scalable solutions with **PostgreSQL and Docker**.  
