@@ -39,7 +39,7 @@ End-to-end data processing and reporting system using Apache Airflow and Postgre
 ---
 
 ## 📫 Connect with Me:
-📧 Email: [leomilos@hotmail.com](mailto:leomilos@hotmail.com)  
+📧 Email: [leomilos21@gmail.com](mailto:leomilos21@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/leonardo-pilati-milos](https://www.linkedin.com/in/leonardo-pilati-milos-6a13b322b/)  
 📂 Portfolio: [leomilos.github.io/Portifolio](https://leomilos.github.io/Portifolio/)  
 🐙 GitHub: [github.com/leomilos](https://github.com/leomilos)  
